@@ -1,0 +1,36 @@
+{
+  "Items": [
+    {
+      "Items": "Huda",
+      "Avatar": "images/thung1.jpg",
+      "DOM": "10/10/2000",
+      "Price": "245.000VND",
+      "Producer": "Công ty TNHH Bia Huế",
+      "id": 1
+    },
+    {
+      "Items": "Omo",
+      "Avatar": "images/omo.jpg",
+      "DOM": "10/10/2001",
+      "Price": "25.000VND",
+      "Producer": "Xí nghiệp sản xuất bột giặt SG",
+      "id": 2
+    },
+    {
+      "Items": "Aquafina",
+      "Avatar": "images/a1.jpg",
+      "DOM": "10/10/2015",
+      "Price": "82.000VND",
+      "Producer": "Công ty TNHH Bạch Mã Xanh",
+      "id": 3
+    },
+    {
+      "Items": "Dầu ăn Neptun",
+      "Avatar": "images/d.jpg",
+      "DOM": "10/10/2008",
+      "Price": "185.000VND",
+      "Producer": "Công ty cổ phần Kala",
+      "id": 4
+    }
+  ]
+}
